@@ -3441,11 +3441,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Downloads\\Dev\\teste\\UC_14\\Chapter\\Chapter\\Chapter.csproj",
+      "projectUniqueName": "E:\\Downloads\\Dev\\UC14\\UC_14\\Chapter\\Chapter\\Chapter.csproj",
       "projectName": "Chapter",
-      "projectPath": "E:\\Downloads\\Dev\\teste\\UC_14\\Chapter\\Chapter\\Chapter.csproj",
+      "projectPath": "E:\\Downloads\\Dev\\UC14\\UC_14\\Chapter\\Chapter\\Chapter.csproj",
       "packagesPath": "C:\\Users\\gabri\\.nuget\\packages\\",
-      "outputPath": "E:\\Downloads\\Dev\\teste\\UC_14\\Chapter\\Chapter\\obj\\",
+      "outputPath": "E:\\Downloads\\Dev\\UC14\\UC_14\\Chapter\\Chapter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gabri\\AppData\\Roaming\\NuGet\\NuGet.Config",
